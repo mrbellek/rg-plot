@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1060.693"
-     inkscape:cy="601.65917"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="648.36129"
+     inkscape:cy="235.44386"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -2181,7 +2181,7 @@
        id="use5337"
        width="100%"
        height="100%"
-       transform="translate(-390.33121,164.04167)" />
+       transform="translate(-392.57627,166.09965)" />
     <use
        x="0"
        y="0"
@@ -2195,7 +2195,7 @@
        y="0"
        xlink:href="#g5278"
        id="use5356"
-       transform="translate(-297.31021,123.68747)"
+       transform="translate(-297.4973,123.68747)"
        width="100%"
        height="100%" />
     <text
