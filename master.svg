@@ -29,11 +29,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4125"
-     inkscape:cx="1678.1821"
-     inkscape:cy="736.20931"
+     inkscape:cx="1902.6098"
+     inkscape:cy="755.82201"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -2068,7 +2068,7 @@
      inkscape:label="markers"
      style="display:inline">
     <g
-       transform="translate(496.81663,-144.46253)"
+       transform="translate(496.81663,-128.58752)"
        style="display:inline"
        id="g4911-0">
       <circle
@@ -2090,7 +2090,7 @@
            sodipodi:role="line">B</tspan></text>
     </g>
     <g
-       transform="translate(496.81663,-124.22852)"
+       transform="translate(496.81663,-109.41185)"
        style="display:inline"
        id="g4911-0-7">
       <circle
@@ -2131,7 +2131,7 @@
     <g
        id="g5149"
        style="display:inline"
-       transform="translate(496.81662,-114.96146)">
+       transform="translate(496.81662,-99.086453)">
       <circle
          r="3.5672603"
          cy="196.26541"
@@ -2165,75 +2165,75 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="477.90601"
-       y="35.937145"
+       y="51.812149"
        id="text5068"><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="35.937145"
+         y="51.812149"
          style="font-style:italic;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5078">end of R0</tspan><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="41.587147"
+         y="57.462151"
          style="line-height:5.6500001px;stroke-width:0.26458332"
-         id="tspan5316">Mathematician, Hell Rush</tspan><tspan
+         id="tspan5316">Mathematician, Hell Rush,</tspan><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="47.237144"
+         y="63.112148"
          style="line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082">Premeditiation if you got Drow</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="477.90601"
-       y="56.171162"
+       y="70.987823"
        id="text5068-8"><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="56.171162"
+         y="70.987823"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6">end of R3</tspan><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="61.821163"
+         y="76.637825"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5318">Mercenary</tspan><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="67.471161"
+         y="82.287827"
          style="line-height:5.6500001px;stroke-width:0.26458332"
-         id="tspan5107">Harlequin, Lucifer, Coin Pillage</tspan><tspan
+         id="tspan5107">Harlequin, Lucifer, Coin Pillage,</tspan><tspan
          sodipodi:role="line"
          x="477.90601"
-         y="73.121162"
+         y="87.93782"
          style="line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5109">Mercenary Spirit</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.10135"
-       y="81.313202"
+       y="97.188194"
        id="text5068-8-8"><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="81.313202"
+         y="97.188194"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2">IGOT an Excess of Mana R7-11</tspan><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="86.963203"
+         y="102.8382"
          style="font-style:normal;font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5235">Mana Waste<tspan
    style="font-weight:normal"
    id="tspan5239">, Autocasting</tspan></tspan><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="92.613205"
+         y="108.4882"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217" /></text>
     <g
        id="g5278"
-       transform="translate(-117.01667,31.005538)">
+       transform="translate(-117.01667,46.880539)">
       <circle
          r="3.5672603"
          cy="63.97374"
@@ -2257,7 +2257,7 @@
        y="0"
        xlink:href="#g4911-0"
        id="use5320"
-       transform="translate(-424.089,181.56582)"
+       transform="translate(-424.089,165.69081)"
        width="100%"
        height="100%" />
     <use
@@ -2267,13 +2267,13 @@
        id="use5337"
        width="100%"
        height="100%"
-       transform="translate(-392.57627,144.933)" />
+       transform="translate(-392.57627,130.11633)" />
     <use
        x="0"
        y="0"
        xlink:href="#g5149"
        id="use5354"
-       transform="translate(-350.12396,109.25602)"
+       transform="translate(-350.12396,93.381016)"
        width="100%"
        height="100%" />
     <use
@@ -2281,28 +2281,28 @@
        y="0"
        xlink:href="#g5278"
        id="use5356"
-       transform="translate(-297.4973,102.5208)"
+       transform="translate(-297.4973,86.645799)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.02417"
-       y="94.964401"
+       y="110.83941"
        id="text5068-8-8-0"><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="94.964401"
+         y="110.83941"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4">as Mercenary, R12 (ASAP)</tspan><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="100.6144"
+         y="116.48941"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3">Know Your Enemy, Part 1</tspan></text>
     <g
        id="g5435"
-       transform="translate(-117.01667,37.306248)">
+       transform="translate(-117.01667,53.181249)">
       <circle
          r="3.5672603"
          cy="74.557076"
@@ -2326,7 +2326,7 @@
        y="0"
        xlink:href="#g5435"
        id="use5437"
-       transform="translate(-255.28028,148.76191)"
+       transform="translate(-255.28028,132.8869)"
        width="100%"
        height="100%" />
     <text
@@ -2344,21 +2344,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.06036"
-       y="111.87257"
+       y="127.74755"
        id="text5068-8-8-0-4"><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="111.87257"
+         y="127.74755"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6">as any vanilla faction, R16</tspan><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="117.52257"
+         y="133.39754"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3">Vanilla Flavored Juice</tspan></text>
     <g
        id="g5514"
-       transform="translate(-117.01667,40.216665)">
+       transform="translate(-117.01667,56.091666)">
       <circle
          r="3.5672603"
          cy="85.140404"
@@ -2382,23 +2382,23 @@
        y="0"
        xlink:href="#g5514"
        id="use5518"
-       transform="translate(-233.95312,26.193752)"
+       transform="translate(-233.95312,10.318751)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.01935"
-       y="125.34224"
+       y="141.21725"
        id="text5068-8-8-0-4-7"><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="125.34224"
+         y="141.21725"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6-9">merc/research transition R18</tspan><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="130.99225"
+         y="146.86725"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3-7">Tier 3 Vanilla Challenges</tspan></text>
     <g
@@ -2437,7 +2437,22 @@
          x="477.85538"
          y="27.829464"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
-         id="tspan7822">Speed Run</tspan></text>
+         id="tspan7822">Speed Run</tspan><tspan
+         sodipodi:role="line"
+         x="477.85538"
+         y="33.479465"
+         style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan7862">glho kohhl snod, Rule 'Dis,</tspan><tspan
+         sodipodi:role="line"
+         x="477.85538"
+         y="39.129463"
+         style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan7866">Need a Head Start?,</tspan><tspan
+         sodipodi:role="line"
+         x="477.85538"
+         y="44.779465"
+         style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan7868">Suggestion Master</tspan></text>
     <g
        style="display:inline"
        id="g7791-3"
