@@ -29,11 +29,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70625002"
-     inkscape:cx="691.60898"
-     inkscape:cy="871.18427"
+     inkscape:cx="1048.9978"
+     inkscape:cy="664.98235"
      inkscape:document-units="mm"
      inkscape:current-layer="layer17"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -504,6 +504,57 @@
          d="m 465.66663,137.58333 h -105.8333 v -79.375 h 10.58333 V 52.916663 H 381 v -5.291666 h 10.58333 V 42.33333 h 10.58333 v -5.291666 h 10.58333 v -5.291667 h 10.58331 v -5.291666 h 10.58333 v -5.291666 h 31.75 z"
          id="path6137"
          inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="-0.24275287"
+         inkscape:transform-center-x="1.5228706e-005"
+         d="m 377.70279,59.787776 0.74711,1.513806 1.67058,0.24275 -1.20884,1.178333 0.28536,1.663834 -1.49421,-0.785556 -1.49422,0.785556 0.28537,-1.663834 -1.20884,-1.178333 1.67058,-0.24275 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="1.2710557"
+         sodipodi:r1="2.5421114"
+         sodipodi:cy="62.329887"
+         sodipodi:cx="377.70279"
+         sodipodi:sides="5"
+         id="path33150-9-5"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#141414;stroke-width:0.25421119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         inkscape:transform-center-y="-0.24275287"
+         inkscape:transform-center-x="1.5228706e-005"
+         d="m 398.56799,47.642497 0.74711,1.513806 1.67058,0.24275 -1.20884,1.178333 0.28537,1.663834 -1.49422,-0.785556 -1.49421,0.785556 0.28537,-1.663834 -1.20885,-1.178333 1.67059,-0.24275 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="1.2710557"
+         sodipodi:r1="2.5421114"
+         sodipodi:cy="50.184608"
+         sodipodi:cx="398.56799"
+         sodipodi:sides="5"
+         id="path33150-9-58"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#141414;stroke-width:0.25421119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         inkscape:transform-center-y="-0.24275287"
+         inkscape:transform-center-x="1.5228706e-005"
+         d="m 461.66141,29.464274 0.74711,1.513806 1.67058,0.24275 -1.20885,1.178334 0.28537,1.663833 -1.49421,-0.785555 -1.49422,0.785555 0.28537,-1.663833 -1.20884,-1.178334 1.67058,-0.24275 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="1.2710557"
+         sodipodi:r1="2.5421114"
+         sodipodi:cy="32.006385"
+         sodipodi:cx="461.66141"
+         sodipodi:sides="5"
+         id="path33150-9-18"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#141414;stroke-width:0.25421119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
     </g>
     <g
        id="g7650"
@@ -2265,13 +2316,13 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 358.05966,30.274867 395.70427,49.68547"
+       d="m 358.05966,30.274867 35.97397,20.182519"
        id="path33700-1-2-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 358.05966,30.274867 16.84675,30.860297"
+       d="m 358.05966,30.274867 14.73008,31.389464"
        id="path33700-1-2-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2450,15 +2501,25 @@
          style="font-style:normal;font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5235">Mana Waste<tspan
    style="font-weight:normal"
-   id="tspan5239">, Autocasting</tspan></tspan><tspan
+   id="tspan5239">, Autocasting,</tspan></tspan><tspan
          sodipodi:role="line"
          x="478.10135"
          y="118.01318"
+         style="font-style:normal;font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan5203">Drow/Faceless Unlock,</tspan><tspan
+         sodipodi:role="line"
+         x="478.10135"
+         y="123.66317"
+         style="font-style:normal;font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan5205">Premeditation</tspan><tspan
+         sodipodi:role="line"
+         x="478.10135"
+         y="129.31317"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217" /></text>
     <g
        id="g5278"
-       transform="translate(-117.01667,56.405542)">
+       transform="translate(-117.01667,77.57221)">
       <circle
          r="3.5672603"
          cy="63.97374"
@@ -2506,28 +2567,28 @@
        y="0"
        xlink:href="#g5278"
        id="use5356"
-       transform="translate(-297.4973,77.120796)"
+       transform="translate(-297.4973,55.954128)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.02417"
-       y="120.36438"
+       y="141.53105"
        id="text5068-8-8-0"><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="120.36438"
+         y="141.53105"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4">as Mercenary, R12 (ASAP)</tspan><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="126.01438"
+         y="147.18105"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3">Know Your Enemy, Part 1</tspan></text>
     <g
        id="g5435"
-       transform="translate(-117.01667,62.706252)">
+       transform="translate(-117.01667,83.87292)">
       <circle
          r="3.5672603"
          cy="74.557076"
@@ -2551,7 +2612,7 @@
        y="0"
        xlink:href="#g5435"
        id="use5437"
-       transform="translate(-255.28028,123.36187)"
+       transform="translate(-255.28028,102.19519)"
        width="100%"
        height="100%" />
     <text
@@ -2569,21 +2630,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.06036"
-       y="137.27249"
+       y="158.43918"
        id="text5068-8-8-0-4"><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="137.27249"
+         y="158.43918"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6">as any vanilla faction, R16</tspan><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="142.92249"
+         y="164.08917"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3">Vanilla Flavored Juice</tspan></text>
     <g
        id="g5514"
-       transform="translate(-117.01667,65.616669)">
+       transform="translate(-117.01667,86.783337)">
       <circle
          r="3.5672603"
          cy="85.140404"
@@ -2607,23 +2668,23 @@
        y="0"
        xlink:href="#g5514"
        id="use5518"
-       transform="translate(-233.95312,0.79375067)"
+       transform="translate(-233.95312,-20.372916)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.01935"
-       y="150.7422"
+       y="171.90889"
        id="text5068-8-8-0-4-7"><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="150.7422"
+         y="171.90889"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6-9">merc/research transition R18</tspan><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="156.3922"
+         y="177.55888"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3-7">Tier 3 Vanilla Challenges</tspan></text>
     <g
