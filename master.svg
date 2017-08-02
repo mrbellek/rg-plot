@@ -29,11 +29,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70625002"
-     inkscape:cx="1152.4401"
-     inkscape:cy="602.70449"
+     inkscape:cx="691.60898"
+     inkscape:cy="871.18427"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer13"
-     showgrid="false"
+     inkscape:current-layer="layer17"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -161,15 +161,14 @@
      id="layer17"
      inkscape:label="background"
      style="display:inline"
-     sodipodi:insensitive="true"
      transform="translate(0,31.75)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91670346;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90887803;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect33740"
-       width="635"
-       height="284.94849"
-       x="-74.083328"
-       y="0.40075764" />
+       width="560.91669"
+       height="317.09924"
+       x="2.8421709e-014"
+       y="-31.750002" />
   </g>
   <g
      inkscape:groupmode="layer"
