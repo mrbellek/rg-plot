@@ -32,7 +32,7 @@
      inkscape:cx="1902.6098"
      inkscape:cy="755.82201"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -2131,7 +2131,7 @@
     <g
        id="g5149"
        style="display:inline"
-       transform="translate(496.81662,-99.086453)">
+       transform="translate(496.81662,-95.382284)">
       <circle
          r="3.5672603"
          cy="196.26541"
@@ -2207,33 +2207,38 @@
          x="477.90601"
          y="87.93782"
          style="line-height:5.6500001px;stroke-width:0.26458332"
-         id="tspan5109">Mercenary Spirit</tspan></text>
+         id="tspan7872">Mercenary Spirit, Mana Matrix,</tspan><tspan
+         sodipodi:role="line"
+         x="477.90601"
+         y="93.587822"
+         style="line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan7883">Helden Sterben Nicht</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.10135"
-       y="97.188194"
+       y="100.89235"
        id="text5068-8-8"><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="97.188194"
+         y="100.89235"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2">IGOT an Excess of Mana R7-11</tspan><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="102.8382"
+         y="106.54235"
          style="font-style:normal;font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5235">Mana Waste<tspan
    style="font-weight:normal"
    id="tspan5239">, Autocasting</tspan></tspan><tspan
          sodipodi:role="line"
          x="478.10135"
-         y="108.4882"
+         y="112.19235"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217" /></text>
     <g
        id="g5278"
-       transform="translate(-117.01667,46.880539)">
+       transform="translate(-117.01667,50.584708)">
       <circle
          r="3.5672603"
          cy="63.97374"
@@ -2273,7 +2278,7 @@
        y="0"
        xlink:href="#g5149"
        id="use5354"
-       transform="translate(-350.12396,93.381016)"
+       transform="translate(-350.12396,89.676847)"
        width="100%"
        height="100%" />
     <use
@@ -2281,28 +2286,28 @@
        y="0"
        xlink:href="#g5278"
        id="use5356"
-       transform="translate(-297.4973,86.645799)"
+       transform="translate(-297.4973,82.94163)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.02417"
-       y="110.83941"
+       y="114.54356"
        id="text5068-8-8-0"><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="110.83941"
+         y="114.54356"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4">as Mercenary, R12 (ASAP)</tspan><tspan
          sodipodi:role="line"
          x="478.02417"
-         y="116.48941"
+         y="120.19357"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3">Know Your Enemy, Part 1</tspan></text>
     <g
        id="g5435"
-       transform="translate(-117.01667,53.181249)">
+       transform="translate(-117.01667,56.885418)">
       <circle
          r="3.5672603"
          cy="74.557076"
@@ -2326,7 +2331,7 @@
        y="0"
        xlink:href="#g5435"
        id="use5437"
-       transform="translate(-255.28028,132.8869)"
+       transform="translate(-255.28028,129.18271)"
        width="100%"
        height="100%" />
     <text
@@ -2344,21 +2349,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.06036"
-       y="127.74755"
+       y="131.45166"
        id="text5068-8-8-0-4"><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="127.74755"
+         y="131.45166"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6">as any vanilla faction, R16</tspan><tspan
          sodipodi:role="line"
          x="478.06036"
-         y="133.39754"
+         y="137.10165"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3">Vanilla Flavored Juice</tspan></text>
     <g
        id="g5514"
-       transform="translate(-117.01667,56.091666)">
+       transform="translate(-117.01667,59.795835)">
       <circle
          r="3.5672603"
          cy="85.140404"
@@ -2382,23 +2387,23 @@
        y="0"
        xlink:href="#g5514"
        id="use5518"
-       transform="translate(-233.95312,10.318751)"
+       transform="translate(-233.95312,6.6145841)"
        width="100%"
        height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="478.01935"
-       y="141.21725"
+       y="144.92137"
        id="text5068-8-8-0-4-7"><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="141.21725"
+         y="144.92137"
          style="font-style:italic;font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5082-6-2-4-6-9">merc/research transition R18</tspan><tspan
          sodipodi:role="line"
          x="478.01935"
-         y="146.86725"
+         y="150.57137"
          style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5217-3-3-7">Tier 3 Vanilla Challenges</tspan></text>
     <g
