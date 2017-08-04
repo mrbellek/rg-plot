@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="923.50732"
-     inkscape:cy="683.23352"
+     inkscape:cx="804.10381"
+     inkscape:cy="724.09267"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -507,49 +507,49 @@
      inkscape:label="credits"
      style="display:inline">
     <text
-       transform="translate(0,31.75)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:5.50333261px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="487.28824"
-       y="253.17279"
+       x="511.14502"
+       y="297.0936"
        id="text4943"><tspan
          sodipodi:role="line"
          id="tspan4941"
-         x="487.28824"
-         y="253.17279"
+         x="511.14502"
+         y="297.0936"
          style="font-size:4.23333311px;line-height:5.50333261px;stroke-width:0.26458332">art by pseudobyte</tspan><tspan
          sodipodi:role="line"
-         x="487.28824"
-         y="258.67612"
+         x="511.14502"
+         y="302.59692"
          style="font-size:4.23333311px;line-height:5.50333261px;stroke-width:0.26458332"
-         id="tspan4945">data and suggestions from</tspan><tspan
-         sodipodi:role="line"
-         x="487.28824"
-         y="264.17944"
-         style="font-size:4.23333311px;line-height:5.50333261px;stroke-width:0.26458332"
-         id="tspan4947">Lapare, Unihedron, Igorogi, Ivan</tspan><tspan
-         sodipodi:role="line"
-         x="487.28824"
-         y="269.6828"
-         style="font-size:4.23333311px;line-height:5.50333261px;stroke-width:0.26458332"
-         id="tspan4949">Necrodoom, Namelessname,</tspan><tspan
-         sodipodi:role="line"
-         x="487.28824"
-         y="275.18613"
-         style="font-size:4.23333311px;line-height:5.50333261px;stroke-width:0.26458332"
-         id="tspan4951">Goofball, RShields, and Slakkarn</tspan></text>
+         id="tspan4951">data from RG Discord</tspan></text>
     <text
-       transform="translate(0,31.75)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:2.64583325px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="521.73175"
-       y="282.32654"
+       x="522.45801"
+       y="314.07654"
        id="text4955"><tspan
          sodipodi:role="line"
          id="tspan4953"
-         x="521.73175"
-         y="282.32654"
-         style="font-style:italic;stroke-width:0.26458332">v2 for 2.7.4.0</tspan></text>
+         x="522.45801"
+         y="314.07654"
+         style="font-style:italic;stroke-width:0.26458332">v3 for 2.7.4.0</tspan></text>
+    <a
+       id="a5298"
+       xlink:href="https://github.com/nyanlathotep/rg-plot"
+       transform="translate(5.55625,2.9104167)"
+       style="fill:#0069ff;fill-opacity:1">
+      <text
+         id="text5296"
+         y="304.93225"
+         x="469.7677"
+         style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:2.64583325px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0069ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-weight:normal;fill:#0069ff;fill-opacity:1;stroke-width:0.26458332"
+           y="304.93225"
+           x="469.7677"
+           id="tspan5294"
+           sodipodi:role="line">github.com/nyanlathotep/rg-plot</tspan></text>
+    </a>
   </g>
   <g
      inkscape:groupmode="layer"
