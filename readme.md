@@ -7,13 +7,13 @@ A general guide to production in Realm Grinder pre-Ascension. Also includes some
 * Data and suggestions from members of the RG Discord, including: Lapare, Unihedron, Igorogi, Ivan, Necrodoom, Namelessname, G00FBALL, RShields, and Slakkarn
 
 ### License
-This is licensed Creative Commons ShareAlike, so
+This plot (master.svg) and the other files in the repository are licensed Creative Commons ShareAlike, so
 
 you may:
 
-* distribute this
+* distribute them
 * create derivative works
-* use this or a derivative commercially (good luck?)
+* use them or a derivative for commercial purposes (good luck?)
 
 provided you:
 
