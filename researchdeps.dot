@@ -1,0 +1,255 @@
+digraph {
+  rankdir = "LR";
+  ranksep = 1;
+
+  subgraph cluster_loners {
+    S270 [style="filled", fillcolor="#FFB1FE"]
+    C305 [style="filled", fillcolor="#A1F8A6"]
+    C460 [style="filled", fillcolor="#A1F8A6"]
+    C500 [style="filled", fillcolor="#A1F8A6"]
+    A495 [style="filled", fillcolor="#C6ADFF"]
+    W275 [style="filled", fillcolor="#FDCFA7"]
+    E320 [style="filled", fillcolor="#ECE193"]
+    E410 [style="filled", fillcolor="#ECE193"]
+    E495 [style="filled", fillcolor="#ECE193"]
+    node [shape="box"]
+    D1375 [style="filled", fillcolor="#A5EBFF"]
+    C3100 [style="filled", fillcolor="#A1F8A6"]
+    D1125 [style="filled", fillcolor="#A5EBFF"]
+    W1375 [style="filled", fillcolor="#FDCFA7"]
+    S1275 [style="filled", fillcolor="#FFB1FE"]
+    edge [style="invis"]
+    C305 -> C460 -> C500
+    E320 -> E410 -> E495
+    S270 -> A495 -> W275
+    D1125-> D1375 -> C3100
+    W1375 -> S1275
+  }
+
+  subgraph spellcraft {
+    node [style="filled", fillcolor="#FFB1FE"]
+    S545; S225; S1; S460; S50
+    S10; S375; S215; S250; S105
+    S180; S135; S330; S175; S300
+    S590; S251; S200; S400; S150
+    S30; S500; S305; S435
+    node [shape="box"]
+    S3200; S1450; S2875; S1500
+  }
+
+  subgraph craftsmanship {
+    node [style="filled", fillcolor="#A1F8A6"]
+    C405; C520; C1; C25; C200; C120
+    C175; C50; C10; C135; C225
+    C375; C590; C400; C330; C251
+    C80; C300; C250; C105; C340; C150
+    node [shape="box"]
+    C1500; C3000; C1300; C1325
+  }
+
+  subgraph divine {
+    node [style="filled", fillcolor="#A5EBFF"]
+    D10; D55; D330; D135; D260
+    D175; D25; D320; D225; D1
+    D245; D525; D435; D200; D205
+    D590; D275; D250; D560; D350
+    D150; D50; D400; D290; D480
+    node [shape="box"]
+    D3350; D2775; D1275
+  }
+
+  subgraph economics {
+    node [style="filled", fillcolor="#ECE193"]
+    E80; E30; E145; E460; E260
+    E225; E290; E25; E1
+    E480; E250; E350; E135; E275
+    E10; E50; E200; E590; E400
+    E230; E150; E330
+    node [shape="box"]
+    E1225; E1425; E3250; E1325; E3300
+  }
+
+  subgraph alchemy {
+    node [style="filled", fillcolor="#C6ADFF"]
+    A375; A175;A105; A305; A25; A400
+    A50; A55; A10; A150; A250
+    A1; A545; A135; A30; A410
+    A120; A200; A270; A590; A480
+    A251; A330; A300
+    node [shape="box"]
+    A2950; A3400; A1500; A1325
+  }
+
+  subgraph warfare {
+    node [style="filled", fillcolor="#FDCFA7"]
+    W180; W250; W560; W175; W225
+    W525; W400; W135; W10; W320
+    W150; W50; W350; W1; W205
+    W520; W405; W200; W260; W25
+    W290; W590; W330; W120
+    node [shape="box"]
+    W3050; W1400; W3150; W1200; W1275
+  }
+
+  D10 -> S135
+  A105 -> S135
+  D1 -> S175
+  S135 -> S175
+  S1 -> S180
+  S105 -> S180
+  S50 -> S200
+  A55 -> S200
+  S10 -> S215
+  S175 -> S215
+  D175 -> S225
+  S200 -> S225
+  D225 -> S250
+  A150 -> S250
+  A200 -> S330
+  D225 -> S330
+  S305 -> S375
+  S330 -> S375
+  S175 -> S400
+  S215 -> S400
+  S105 -> S590
+  S375 -> S590
+  S435 -> S1450
+  C1325 -> S1450
+  S545 -> S1500
+  E1325 -> S1500
+  A1325 -> S3200
+  S1500 -> S3200
+  E10 -> C150
+  C135 -> C150
+  C50 -> C175
+  C120 -> C175
+  E50 -> C200
+  C80 -> C200
+  C1 -> C225
+  A120 -> C225
+  C150 -> C250
+  W225 -> C250
+  W225 -> C330
+  A250 -> C330
+  E260 -> C340
+  E290 -> C340
+  S300 -> C375
+  C330 -> C375
+  C250 -> C400
+  C300 -> C400
+  C135 -> C520
+  C405 -> C520
+  A105 -> C590
+  C520 -> C590
+  E460 -> C1500
+  D1275 -> C1500
+  D55 -> D150
+  W120 -> D150
+  D1 -> D175
+  A55 -> D175
+  D135 -> D200
+  D175 -> D200
+  D135 -> D205
+  C175 -> D205
+  C25 -> D225
+  S30 -> D225
+  A175 -> D245
+  S225 -> D245
+  S150 -> D250
+  D200 -> D250
+  E275 -> D330
+  D320 -> D330
+  W250 -> D350
+  W330 -> D350
+  D205 -> D400
+  D290 -> D400
+  D205 -> D525
+  D435 -> D525
+  S225 -> D560
+  S500 -> D560
+  W320 -> D590
+  A480 -> D590
+  D2775 -> D3350
+  W3150 -> D3350
+  C10 -> E145
+  C105 -> E145
+  E135 -> E150
+  E25 -> E150
+  E150 -> E200
+  E80 -> E200
+  E1 -> E225
+  A50 -> E225
+  W50 -> E230
+  E30 -> E230
+  E225 -> E250
+  E145 -> E250
+  E200 -> E330
+  E225 -> E330
+  C200 -> E350
+  A330 -> E350
+  A250 -> E400
+  E350 -> E400
+  C225 -> E590
+  E480 -> E590
+  A545 -> E1425
+  C1300 -> E1425
+  E1225 -> E3250
+  A2950 -> E3250
+  E1325 -> E3300
+  S2875 -> E3300
+  A25 -> A150
+  A30 -> A150
+  D25 -> A175
+  C135 -> A175
+  A1 -> A200
+  A135 -> A200
+  A10 -> A250
+  S175 -> A250
+  D260 -> A330
+  D275 -> A330
+  A251 -> A375
+  A305 -> A375
+  S251 -> A400
+  A375 -> A400
+  D25 -> A590
+  A410 -> A590
+  D590 -> A1500
+  A1325 -> A1500
+  C3000 -> A3400
+  S3200 -> A3400
+  W25 -> W150
+  W135 -> W150
+  W1 -> W175
+  W150 -> W175
+  W10 -> W180
+  W50 -> W180
+  D50 -> W200
+  W180 -> W200
+  W135 -> W205
+  D150 -> W205
+  W10 -> W225
+  D55 -> W225
+  W175 -> W250
+  W205 -> W250
+  W200 -> W330
+  W260 -> W330
+  A300 -> W350
+  A270 -> W350
+  C251 -> W400
+  W290 -> W400
+  W50 -> W520
+  W405 -> W520
+  W205 -> W525
+  S460 -> W525
+  D330 -> W560
+  D480 -> W560
+  D245 -> W590
+  W520 -> W590
+  W400 -> W1400
+  W1200 -> W1400
+  W1275 -> W3050
+  E1325 -> W3050
+
+  {rank=min; A1}
+  {rank=max; W1400; A3400; C1500; E3250; S1450; D3350; E1425}
+}
