@@ -2,9 +2,14 @@
 
 A general guide to production in Realm Grinder pre-Ascension. Also includes some unlocks that are important to progression or convenient to get at certain times. The unlocks are not comprehensive, and it generally does not include alternative builds/factions, but for the most part, there aren't many.
 
+### Research Tree
+
+A tree of research dependencies, showing what researches require what. Post-A researches are square, pre-A ones are round, and they are colored by branch.
+
 ### Contributors
 * Art by me (nyanlathotep/pseudobyte)
-* Data and suggestions from members of the RG Discord, including: Lapare, Unihedron, Igorogi, Ivan, Necrodoom, Namelessname, G00FBALL, RShields, and Slakkarn
+* The Plot: Data and suggestions from members of the RG Discord, including: Lapare, Unihedron, Igorogi, Ivan, Necrodoom, Namelessname, G00FBALL, RShields, and Slakkarn
+* The Tree: compiled dependencies from Necrodoom and Red Arremer, fixes from Lapare
 
 ### License
 This plot (master.svg) and the other files in the repository are licensed Creative Commons ShareAlike, so
