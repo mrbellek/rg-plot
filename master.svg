@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="869.79989"
-     inkscape:cy="715.07226"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="903.89293"
+     inkscape:cy="548.92645"
      inkscape:document-units="mm"
      inkscape:current-layer="layer14"
      showgrid="true"
@@ -114,31 +114,6 @@
      style="display:inline"
      transform="translate(0,31.75)">
     <path
-       style="opacity:1;fill:#9df3a6;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 42.333336,243.41666 179.916654,1e-5 v -31.75 l 137.58333,-10.58334 h 105.83333 l 0,63.49999 H 42.333336 Z"
-       id="rect32811"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="fill:#9df3a7;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 42.333331,243.41666 v -26.45833 h 10.583333 v -5.29167 H 63.499998 V 206.375 h 10.583333 v -5.29167 l 158.749999,10.58334 v 31.75 z"
-       id="path32938"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path32940"
-       d="m 42.333331,243.41665 v -26.45833 h 10.583333 v -5.29167 h 10.583334 v -5.29166 h 10.583333 v -5.29167 l 158.749999,10.58335 v 31.75 z"
-       style="fill:url(#pattern32946);fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="ccccccccccc" />
-    <rect
-       style="opacity:1;fill:#eef39d;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect32932"
-       width="74.112343"
-       height="14.081088"
-       x="42.318832"
-       y="229.35007" />
-    <path
        style="fill:#c8c8c8;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 190.49999,148.16666 V 142.875 h 10.58334 v -5.29167 h 21.16666 v 5.29167 h 10.58333 v 5.29166 z"
        id="path32954"
@@ -172,39 +147,76 @@
          id="path33006"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="144.91087"
-       y="229.64993"
-       id="text33265"><tspan
-         sodipodi:role="line"
-         id="tspan33263"
-         x="144.91087"
+    <g
+       id="g5723">
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path32938"
+         d="m 42.333331,243.41666 v -26.45833 h 10.583333 v -5.29167 H 63.499998 V 206.375 h 10.583333 v -5.29167 l 148.166659,10.58334 v 31.75 z"
+         style="fill:#9df3a7;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         style="fill:url(#pattern32946);fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 42.333331,243.41665 v -26.45833 h 10.583333 v -5.29167 h 10.583334 v -5.29166 h 10.583333 v -5.29167 l 148.166659,10.58335 v 31.75 z"
+         id="path32940"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text33265"
          y="229.64993"
-         style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Dwelf</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="293.02927"
-       y="241.14499"
-       id="text33265-3"><tspan
-         sodipodi:role="line"
-         id="tspan33263-7"
-         x="293.02927"
+         x="144.91087"
+         style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
+           y="229.64993"
+           x="144.91087"
+           id="tspan33263"
+           sodipodi:role="line">Dwelf</tspan></text>
+    </g>
+    <g
+       id="g5728">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect32811"
+         d="m 42.333336,243.41666 179.916654,1e-5 v -31.75 l 137.58333,-10.58334 h 105.83333 l 0,63.49999 H 42.333336 Z"
+         style="opacity:1;fill:#9df3a6;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text33265-3"
          y="241.14499"
-         style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Elf</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="65.935318"
-       y="241.9433"
-       id="text33265-8"><tspan
-         sodipodi:role="line"
-         id="tspan33263-8"
-         x="65.935318"
-         y="241.9433"
-         style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Titan</tspan></text>
+         x="293.02927"
+         style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
+           y="241.14499"
+           x="293.02927"
+           id="tspan33263-7"
+           sodipodi:role="line">Elf</tspan></text>
+    </g>
+    <g
+       id="g5717">
+      <g
+         id="g5711">
+        <rect
+           style="opacity:1;fill:#eef39d;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32932"
+           width="74.112343"
+           height="14.081088"
+           x="42.318832"
+           y="229.35007" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="65.935318"
+           y="241.9433"
+           id="text33265-8"><tspan
+             sodipodi:role="line"
+             id="tspan33263-8"
+             x="65.935318"
+             y="241.9433"
+             style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Titan</tspan></text>
+      </g>
+    </g>
     <g
        id="g33595"
        transform="translate(-5.3068036e-6)">
@@ -1240,7 +1252,8 @@
      inkscape:label="axes"
      id="layer13"
      inkscape:groupmode="layer"
-     transform="translate(0,31.75)">
+     transform="translate(0,31.75)"
+     sodipodi:insensitive="true">
     <text
        id="text13680-5-3"
        y="269.7959"
@@ -2852,7 +2865,7 @@
          id="tspan5044">Goblin Challenge 1,</tspan><tspan
          sodipodi:role="line"
          x="477.98318"
-         y="137.662"
+         y="137.66202"
          style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5042">Remaining Vanilla Challenges</tspan></text>
     <g
