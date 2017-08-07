@@ -8,7 +8,6 @@ digraph {
     C460 [style="filled", fillcolor="#A1F8A6"]
     C500 [style="filled", fillcolor="#A1F8A6"]
     A495 [style="filled", fillcolor="#C6ADFF"]
-    W275 [style="filled", fillcolor="#FDCFA7"]
     E320 [style="filled", fillcolor="#ECE193"]
     E410 [style="filled", fillcolor="#ECE193"]
     E495 [style="filled", fillcolor="#ECE193"]
@@ -21,7 +20,7 @@ digraph {
     edge [style="invis"]
     C305 -> C460 -> C500
     E320 -> E410 -> E495
-    S270 -> A495 -> W275
+    S270 -> A495
     D1125-> D1375 -> C3100
     W1375 -> S1275
   }
@@ -86,7 +85,7 @@ digraph {
     W525; W400; W135; W10; W320
     W150; W50; W350; W1; W205
     W520; W405; W200; W260; W25
-    W290; W590; W330; W120
+    W290; W590; W330; W120; W275
     node [shape="box"]
     W3050; W1400; W3150; W1275
   }
@@ -100,16 +99,16 @@ digraph {
   S50 -> S200
   A55 -> S200
   S10 -> S215
-  S175 -> S215
+  S180 -> S215
   D175 -> S225
   S200 -> S225
   D225 -> S250
   A150 -> S250
-  A200 -> S330
+  S200 -> S330
   D225 -> S330
   S305 -> S375
   S330 -> S375
-  S175 -> S400
+  W275 -> S400
   S215 -> S400
   S105 -> S590
   S375 -> S590
@@ -130,7 +129,7 @@ digraph {
   C150 -> C250
   W225 -> C250
   W225 -> C330
-  A250 -> C330
+  S250 -> C330
   E260 -> C340
   E290 -> C340
   S300 -> C375
