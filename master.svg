@@ -32,7 +32,7 @@
      inkscape:cx="1116.4502"
      inkscape:cy="644.65325"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -107,6 +107,18 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6108"
+       width="560.91669"
+       height="317.5"
+       x="0"
+       y="-2e-006" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer14"
