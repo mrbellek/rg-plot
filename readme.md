@@ -12,7 +12,7 @@ A tree of research dependencies, showing what researches require what. Post-A re
 * The Tree: compiled dependencies from Necrodoom and Red Arremer, fixes from Lapare
 
 ### License
-This plot (master.svg) and the other files in the repository are licensed Creative Commons ShareAlike, so
+The plot (master.svg), tree (researchdeps.dot) and the other files in the repository are licensed Creative Commons ShareAlike, so
 
 you may:
 
