@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67924526"
-     inkscape:cx="1260.2067"
-     inkscape:cy="555.0465"
+     inkscape:cx="1066.6267"
+     inkscape:cy="580.9472"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -55,7 +55,7 @@
        inkscape:collect="always"
        xlink:href="#pattern30251"
        id="pattern5786"
-       patternTransform="matrix(0.26458333,0,0,0.26458333,21.166631,-37.041665)" />
+       patternTransform="matrix(0.26458333,0,0,0.26458333,10.583283,-116.41668)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern30251"
@@ -448,11 +448,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
     <g
-       id="g5792"
-       transform="translate(-10.583348,-79.375011)">
+       id="g5804">
       <rect
-         y="280.45834"
-         x="370.41666"
+         y="201.08333"
+         x="359.83331"
          height="42.333332"
          width="105.83333"
          id="rect5010"
@@ -462,19 +461,48 @@
          id="rect5012"
          width="105.83333"
          height="42.333332"
-         x="370.41666"
-         y="280.45834" />
+         x="359.83331"
+         y="201.08333" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="408.8205"
-         y="305.33884"
+         x="423.94583"
+         y="225.76906"
          id="text33265-4"><tspan
            sodipodi:role="line"
            id="tspan33263-3"
-           x="408.8205"
-           y="305.33884"
+           x="423.94583"
+           y="225.76906"
            style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Dwelf</tspan></text>
+    </g>
+    <g
+       id="g5818">
+      <rect
+         y="216.95833"
+         x="402.16666"
+         height="47.625"
+         width="10.583333"
+         id="rect5794"
+         style="opacity:1;fill:#fad2d2;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:url(#pattern30251);fill-opacity:1.0;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5806"
+         width="10.583333"
+         height="47.625"
+         x="402.16666"
+         y="216.95833" />
+      <text
+         transform="rotate(90)"
+         id="text5810"
+         y="-406.14764"
+         x="232.02769"
+         style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:0.07500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-406.14764"
+           x="232.02769"
+           id="tspan5808"
+           sodipodi:role="line">Dwairy</tspan></text>
     </g>
   </g>
   <g
@@ -2952,13 +2980,18 @@
          x="477.98318"
          y="240.55392"
          style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
-         id="tspan5849">Stoic Resistance, No Recruiting</tspan></text>
+         id="tspan5820">Stoic Resistance (as Dwairy),</tspan><tspan
+         sodipodi:role="line"
+         x="477.98318"
+         y="246.20393"
+         style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+         id="tspan5824">No Recruiting</tspan></text>
     <use
        x="0"
        y="0"
        xlink:href="#g5094"
        id="use5216"
-       transform="translate(-64.558333,26.987497)"
+       transform="translate(-64.645857,26.987497)"
        width="100%"
        height="100%" />
     <use
