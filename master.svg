@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67924526"
-     inkscape:cx="1066.6267"
-     inkscape:cy="580.9472"
+     inkscape:cx="1419.9601"
+     inkscape:cy="404.28053"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -557,7 +557,7 @@
          id="tspan4953"
          x="524.04553"
          y="314.07654"
-         style="font-style:italic;stroke-width:0.26458332">v4 for 2.7.4.0</tspan></text>
+         style="font-style:italic;stroke-width:0.26458332">v5 for 2.7.4.0</tspan></text>
     <a
        id="a5298"
        xlink:href="https://github.com/nyanlathotep/rg-plot"
