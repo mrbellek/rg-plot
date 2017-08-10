@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1598872"
-     inkscape:cx="1535.8604"
-     inkscape:cy="549.52737"
+     inkscape:zoom="0.67924526"
+     inkscape:cx="1260.2067"
+     inkscape:cy="555.0465"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -51,6 +51,11 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern30251"
+       id="pattern5786"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,21.166631,-37.041665)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern30251"
@@ -110,7 +115,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="background">
+     inkscape:label="background"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6108"
@@ -118,6 +124,17 @@
        height="317.5"
        x="0"
        y="-2e-006" />
+    <text
+       id="text33265-6"
+       y="250.8166"
+       x="398.91086"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
+         y="250.8166"
+         x="398.91086"
+         id="tspan33263-26"
+         sodipodi:role="line">Dwelf</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -430,6 +447,35 @@
        id="path7675"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
+    <g
+       id="g5792"
+       transform="translate(-10.583348,-79.375011)">
+      <rect
+         y="280.45834"
+         x="370.41666"
+         height="42.333332"
+         width="105.83333"
+         id="rect5010"
+         style="opacity:1;fill:#9df3a6;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:url(#pattern5786);fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5012"
+         width="105.83333"
+         height="42.333332"
+         x="370.41666"
+         y="280.45834" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="408.8205"
+         y="305.33884"
+         id="text33265-4"><tspan
+           sodipodi:role="line"
+           id="tspan33263-3"
+           x="408.8205"
+           y="305.33884"
+           style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Dwelf</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
