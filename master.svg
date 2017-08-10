@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67924526"
-     inkscape:cx="1419.9601"
-     inkscape:cy="404.28053"
+     inkscape:cx="1057.3235"
+     inkscape:cy="467.03916"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -212,13 +212,13 @@
          style="opacity:1;fill:#9df3a6;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text33265-3"
-         y="241.14499"
-         x="293.02927"
+         y="241.9015"
+         x="284.19763"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
-           y="241.14499"
-           x="293.02927"
+           y="241.9015"
+           x="284.19763"
            id="tspan33263-7"
            sodipodi:role="line">Elf</tspan></text>
     </g>
@@ -236,13 +236,13 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="65.935318"
-           y="241.9433"
+           x="67.367813"
+           y="239.93079"
            id="text33265-8"><tspan
              sodipodi:role="line"
              id="tspan33263-8"
-             x="65.935318"
-             y="241.9433"
+             x="67.367813"
+             y="239.93079"
              style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Titan</tspan></text>
       </g>
     </g>
@@ -257,18 +257,18 @@
          style="fill:#c8c8c8;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text33265-7"
-         y="173.12122"
-         x="175.27708"
+         y="177.85892"
+         x="179.58145"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:9.87777805px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="173.12122"
-           x="175.27708"
+           y="177.85892"
+           x="179.58145"
            id="tspan33263-2"
            sodipodi:role="line">Mercenary</tspan><tspan
            style="font-size:7.05555534px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="182.99899"
-           x="175.27708"
+           y="187.73669"
+           x="179.58145"
            sodipodi:role="line"
            id="tspan4802">(BDSM)</tspan></text>
     </g>
@@ -285,26 +285,33 @@
            x="232.83333"
            y="148.16667" />
         <text
-           transform="scale(1.044466,0.95742706)"
+           transform="scale(1.044466,0.95742705)"
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:14.73857498px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27634826"
-           x="283.39178"
-           y="178.14314"
+           x="283.36743"
+           y="185.76759"
            id="text33265-7-1"><tspan
              sodipodi:role="line"
              id="tspan33263-2-7"
-             x="283.39178"
-             y="178.14314"
+             x="283.36743"
+             y="185.76759"
              style="font-size:10.31700325px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.27634826">Mercenary</tspan><tspan
              id="tspan4802-5"
              sodipodi:role="line"
-             x="283.39178"
-             y="188.46014"
+             x="283.36743"
+             y="196.08459"
              style="font-size:7.36928749px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.27634826">(Moonshine)</tspan></text>
       </g>
     </g>
     <g
        id="g33590">
+      <rect
+         style="opacity:1;fill:#fad2d2;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5840"
+         width="42.333332"
+         height="26.458332"
+         x="232.83333"
+         y="121.70833" />
       <path
          inkscape:connector-curvature="0"
          id="path32964"
@@ -312,19 +319,19 @@
          style="fill:#9df3a7;fill-opacity:1;stroke:#141414;stroke-width:0.50270832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text33265-84-8-2"
-         y="128.26065"
-         x="252.70134"
+         y="133.34827"
+         x="253.96037"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.60000002;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:7.05555534px;line-height:0.60000002;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="128.26065"
-           x="252.70134"
+           y="133.34827"
+           x="253.96037"
            id="tspan33263-1-0-4"
            sodipodi:role="line">Elf</tspan><tspan
            id="tspan33560-5"
            style="font-size:7.05555534px;line-height:0.60000002;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="136.72731"
-           x="252.70134"
+           y="141.81493"
+           x="253.96037"
            sodipodi:role="line">Research</tspan></text>
     </g>
     <g
@@ -340,18 +347,18 @@
       <text
          id="text33265-9"
          y="117.22007"
-         x="318.02606"
+         x="317.44452"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.80000001;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:9.87777805px;line-height:0.80000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
            y="117.22007"
-           x="318.02606"
+           x="317.44452"
            id="tspan33263-27"
            sodipodi:role="line">Fairy</tspan><tspan
            id="tspan33636"
            style="font-size:9.87777805px;line-height:0.80000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
            y="128.50896"
-           x="318.02606"
+           x="317.44452"
            sodipodi:role="line">Research</tspan></text>
     </g>
     <g
@@ -394,19 +401,19 @@
          sodipodi:nodetypes="ccccccccccc" />
       <text
          id="text33265-84-8"
-         y="88.914032"
-         x="534.99951"
+         y="97.187866"
+         x="529.11115"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:9.87777805px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="88.914032"
-           x="534.99951"
+           y="97.187866"
+           x="529.11115"
            id="tspan33263-1-0"
            sodipodi:role="line">Dwelf</tspan><tspan
            id="tspan33560"
            style="font-size:9.87777805px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="103.02515"
-           x="534.99951"
+           y="111.29898"
+           x="529.11115"
            sodipodi:role="line">Research</tspan></text>
     </g>
     <g
@@ -418,28 +425,32 @@
          width="105.83333"
          id="rect7626"
          style="opacity:1;fill:#c1c7f7;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text33265-84-7"
-         y="170.9572"
-         x="373.90585"
-         style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:7.05555534px;line-height:0.01417323;stroke-width:0.26458332"
-           y="170.9572"
+      <g
+         id="g5838"
+         transform="translate(-1.189576,6.313635)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="373.90585"
-           id="tspan33263-1-9"
-           sodipodi:role="line">Research (as possible)</tspan></text>
-      <text
-         id="text33265-84"
-         y="161.21584"
-         x="379.4278"
-         style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
-           y="161.21584"
+           y="170.9572"
+           id="text33265-84-7"><tspan
+             sodipodi:role="line"
+             id="tspan33263-1-9"
+             x="373.90585"
+             y="170.9572"
+             style="font-size:7.05555534px;line-height:0.01417323;stroke-width:0.26458332">Research (as possible)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="379.4278"
-           id="tspan33263-1"
-           sodipodi:role="line">Dwelf/Dwairy</tspan></text>
+           y="161.21584"
+           id="text33265-84"><tspan
+             sodipodi:role="line"
+             id="tspan33263-1"
+             x="379.4278"
+             y="161.21584"
+             style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Dwelf/Dwairy</tspan></text>
+      </g>
     </g>
     <path
        style="fill:#c8c8c8;fill-opacity:1;stroke:#141414;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -466,13 +477,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="423.94583"
-         y="225.76906"
+         x="424.69553"
+         y="225.96381"
          id="text33265-4"><tspan
            sodipodi:role="line"
            id="tspan33263-3"
-           x="423.94583"
-           y="225.76906"
+           x="424.69553"
+           y="225.96381"
            style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332">Dwelf</tspan></text>
     </g>
     <g
@@ -2652,7 +2663,7 @@
        y="0"
        xlink:href="#g4911-0"
        id="use5320"
-       transform="translate(-424.089,206.68906)"
+       transform="translate(-424.47919,206.15368)"
        width="100%"
        height="100%" />
     <use
@@ -2662,13 +2673,13 @@
        id="use5337"
        width="100%"
        height="100%"
-       transform="translate(-392.57627,172.20998)" />
+       transform="translate(-392.72919,169.55258)" />
     <use
        x="0"
        y="0"
        xlink:href="#g5149"
        id="use5354"
-       transform="translate(-350.12396,125.08381)"
+       transform="translate(-350.39586,123.96548)"
        width="100%"
        height="100%" />
     <use
@@ -2676,7 +2687,7 @@
        y="0"
        xlink:href="#g5278"
        id="use5356"
-       transform="translate(-297.4973,113.47235)"
+       transform="translate(-297.47918,114.40969)"
        width="100%"
        height="100%" />
     <g
@@ -2721,7 +2732,7 @@
        y="0"
        xlink:href="#g5435"
        id="use5437"
-       transform="translate(-255.28028,150.98859)"
+       transform="translate(-255.14586,152.30088)"
        width="100%"
        height="100%" />
     <text
@@ -2777,7 +2788,7 @@
        y="0"
        xlink:href="#g5514"
        id="use5518"
-       transform="translate(-233.95312,-25.973973)"
+       transform="translate(-233.97918,-28.420771)"
        width="100%"
        height="100%" />
     <g
@@ -2875,7 +2886,7 @@
     <g
        style="display:inline"
        id="g7791-3"
-       transform="translate(-462.31825,238.4921)">
+       transform="translate(-462.3158,239.76729)">
       <circle
          r="3.5672603"
          cy="22.170212"
@@ -2991,7 +3002,7 @@
        y="0"
        xlink:href="#g5094"
        id="use5216"
-       transform="translate(-64.645857,26.987497)"
+       transform="translate(-64.645857,27.042904)"
        width="100%"
        height="100%" />
     <use
@@ -2999,7 +3010,7 @@
        y="0"
        xlink:href="#g4982"
        id="use5218"
-       transform="translate(-255.03395,11.168667)"
+       transform="translate(-255.14585,11.160565)"
        width="100%"
        height="100%" />
     <text
@@ -3097,7 +3108,7 @@
        y="0"
        xlink:href="#g5183"
        id="use5255"
-       transform="translate(-159.80833,-91.935036)"
+       transform="translate(-159.89586,-94.644988)"
        width="100%"
        height="100%" />
     <use
@@ -3106,7 +3117,7 @@
        y="0"
        xlink:href="#g5209"
        id="use5257"
-       transform="translate(-75.273957,-174.64293)"
+       transform="translate(-75.2292,-177.48516)"
        width="100%"
        height="100%" />
     <g
@@ -3151,7 +3162,7 @@
        y="0"
        xlink:href="#g5756"
        id="use5788"
-       transform="translate(-170.55703,-72.698299)"
+       transform="translate(-170.47917,-75.222563)"
        width="100%"
        height="100%" />
     <g
@@ -3196,7 +3207,7 @@
        y="0"
        xlink:href="#g5814"
        id="use5847"
-       transform="translate(-117.46201,-138.61206)"
+       transform="translate(-117.56254,-141.24241)"
        width="100%"
        height="100%" />
   </g>
