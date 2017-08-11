@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48029893"
-     inkscape:cx="1450.6477"
-     inkscape:cy="664.92671"
+     inkscape:cx="1206.6023"
+     inkscape:cy="637.26283"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="svg8"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,6 +116,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="background"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.43263125;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -124,17 +125,6 @@
        height="317.5"
        x="0"
        y="-2e-006" />
-    <text
-       id="text33265-6"
-       y="250.8166"
-       x="398.91086"
-       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.01417323;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:9.87777805px;line-height:0.01417323;stroke-width:0.26458332"
-         y="250.8166"
-         x="398.91086"
-         id="tspan33263-26"
-         sodipodi:role="line">Dwelf</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -565,10 +555,11 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="development"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.32552433px;line-height:0.18717054px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.66029596;"
+       style="font-style:normal;font-weight:normal;font-size:12.32552433px;line-height:0.18717054px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.66029596"
        x="697.60602"
        y="256.9838"
        id="text5313"
@@ -577,7 +568,7 @@
          id="tspan5311"
          x="697.60602"
          y="256.9838"
-         style="fill:#c83737;stroke-width:0.66029596;">DEVELOPMENT</tspan></text>
+         style="fill:#c83737;stroke-width:0.66029596">DEVELOPMENT</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2301,7 +2292,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="title"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:2.64583325px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2396,17 +2388,27 @@
        sodipodi:nodetypes="cc" />
     <text
        id="text33265-7-3"
-       y="129.99348"
-       x="144.05667"
-       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="123.38302"
+       x="152.31975"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:0.44999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-size:5.64444447px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="129.99348"
-         x="144.05667"
+         style="font-size:5.64444447px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="123.38302"
+         x="152.31975"
          sodipodi:role="line"
          id="tspan4802-4"><tspan
    id="tspan4864"
-   style="font-size:7.05555534px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.26458332">Mercenary </tspan>(LF/EF/TF)</tspan></text>
+   style="font-size:7.05555534px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332">Mercenary</tspan></tspan><tspan
+         style="font-size:5.64444447px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="130.17279"
+         x="152.31975"
+         sodipodi:role="line"
+         id="tspan5083">LF/EF (Stronger)</tspan><tspan
+         style="font-size:5.64444447px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="137.05052"
+         x="152.31975"
+         sodipodi:role="line"
+         id="tspan5085">TF (Idle)</tspan></text>
     <text
        id="text33265-7-3-7"
        y="176.29396"
@@ -2604,6 +2606,15 @@
        transform="translate(-117.56254,-203.68412)"
        width="100%"
        height="100%" />
+    <use
+       style="display:inline"
+       height="100%"
+       width="100%"
+       transform="translate(-350.39586,145.79355)"
+       id="use5676"
+       xlink:href="#g5487"
+       y="0"
+       x="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2882,7 +2893,7 @@
     </g>
     <g
        id="g5577"
-       transform="translate(0,-0.66155216)">
+       transform="translate(0,-0.66156023)">
       <g
          transform="translate(-117.01667,111.55538)"
          id="g5514"
@@ -2985,7 +2996,7 @@
     </g>
     <g
        id="g5567"
-       transform="translate(0,-0.81797653)">
+       transform="translate(0,-0.8179846)">
       <g
          transform="translate(-106.43336,58.744866)"
          id="g4982"
@@ -3087,7 +3098,7 @@
     </g>
     <g
        id="g5613"
-       transform="translate(0,-0.39691156)">
+       transform="translate(0,-0.39691964)">
       <text
          id="text5068-8-8-0-4-7-0-6"
          y="241.76254"
@@ -3142,7 +3153,7 @@
     </g>
     <g
        id="g5631"
-       transform="translate(0,-0.13223673)">
+       transform="translate(0,-0.13223875)">
       <text
          id="text5068-8-8-0-4-7-0-9"
          y="282.26935"
@@ -3184,7 +3195,7 @@
     </g>
     <g
        id="g5601"
-       transform="translate(0,-0.52923879)">
+       transform="translate(0,-0.52924687)">
       <g
          transform="translate(-117.01667,116.02383)"
          id="g5756"
@@ -3226,7 +3237,7 @@
     </g>
     <g
        id="g5622"
-       transform="translate(0,-0.26456475)">
+       transform="translate(0,-0.26456879)">
       <g
          transform="translate(-117.01667,171.46038)"
          id="g5814"
@@ -3267,7 +3278,8 @@
            sodipodi:role="line">Unlock Prestige Research</tspan></text>
     </g>
     <g
-       id="g5685">
+       id="g5685"
+       transform="translate(0,-1.0707333e-5)">
       <g
          id="g5487"
          style="display:inline"
@@ -3307,14 +3319,6 @@
            style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
            id="tspan5581">Faction Run</tspan></text>
     </g>
-    <use
-       height="100%"
-       width="100%"
-       transform="translate(-350.39586,177.54355)"
-       id="use5676"
-       xlink:href="#g5487"
-       y="0"
-       x="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3452,14 +3456,15 @@
          id="tspan5354">Beard Carpet, Perfectly Good,</tspan><tspan
          sodipodi:role="line"
          x="563.82202"
-         y="136.69321"
+         y="136.69322"
          style="line-height:5.6500001px;stroke-width:0.26458332"
          id="tspan5358">Diabolical Evil, Lucky Neutral</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="tooffline">
+     inkscape:label="tooffline"
+     style="display:inline">
     <text
        id="text5378"
        y="149.4877"
