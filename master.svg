@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48029893"
-     inkscape:cx="1206.6023"
-     inkscape:cy="637.26283"
+     inkscape:zoom="1.3584905"
+     inkscape:cx="2044.6403"
+     inkscape:cy="262.25252"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -532,7 +532,7 @@
          id="tspan4953"
          x="619.2959"
          y="314.07654"
-         style="font-style:italic;stroke-width:0.26458332">v5 for 2.7.4.0</tspan></text>
+         style="font-style:italic;stroke-width:0.26458332">v6 for 2.7.4.0</tspan></text>
     <a
        id="a5298"
        xlink:href="https://github.com/nyanlathotep/rg-plot"
@@ -555,7 +555,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="development"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -2397,8 +2397,8 @@
          x="152.31975"
          sodipodi:role="line"
          id="tspan4802-4"><tspan
-   id="tspan4864"
-   style="font-size:7.05555534px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332">Mercenary</tspan></tspan><tspan
+           id="tspan4864"
+           style="font-size:7.05555534px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332">Mercenary</tspan></tspan><tspan
          style="font-size:5.64444447px;line-height:0.44999999;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="130.17279"
          x="152.31975"
