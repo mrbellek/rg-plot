@@ -18,7 +18,7 @@
    id="svg8"
    inkscape:version="0.92.0 r15299"
    sodipodi:docname="master.svg"
-   inkscape:export-filename="D:\home\pictures\proj\rg pre-a plot\pre a plot.png"
+   inkscape:export-filename="C:\Users\kyle\pictures\proj\rg-plot\pre a plot.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48029892"
-     inkscape:cx="1314.931"
-     inkscape:cy="759.14156"
+     inkscape:zoom="0.96059784"
+     inkscape:cx="2020.8645"
+     inkscape:cy="415.24248"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -536,7 +536,7 @@
          id="tspan4953"
          x="619.2959"
          y="314.07654"
-         style="font-style:italic;stroke-width:0.26458332">v6 for 2.7.4.0</tspan></text>
+         style="font-style:italic;stroke-width:0.26458332">v7 for 2.7.4.0</tspan></text>
     <a
        id="a5298"
        xlink:href="https://github.com/nyanlathotep/rg-plot"
@@ -559,7 +559,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="development"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
