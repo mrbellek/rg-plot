@@ -16,7 +16,7 @@
    viewBox="0 0 656.16668 317.5"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="master.svg"
    inkscape:export-filename="D:\home\pictures\proj\rg pre-a plot\pre a plot.png"
    inkscape:export-xdpi="96"
@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3584905"
-     inkscape:cx="1105.7586"
-     inkscape:cy="595.67812"
+     inkscape:zoom="0.96059784"
+     inkscape:cx="1715.2769"
+     inkscape:cy="567.86508"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer5"
      showgrid="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -559,7 +559,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="development"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -2626,20 +2626,19 @@
      inkscape:label="todo"
      style="display:inline">
     <text
-       transform="translate(0,31.75)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:0.07500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="488.72556"
-       y="-19.019854"
+       y="12.730134"
        id="text5026"><tspan
          sodipodi:role="line"
          id="tspan5024"
          x="488.72556"
-         y="-19.019854"
+         y="12.730134"
          style="font-size:7.76111126px;stroke-width:0.26458332">Things to Do</tspan></text>
     <g
        id="g5512"
-       transform="translate(0,0.13230402)">
+       transform="translate(0,10.221966)">
       <g
          id="g4911-0"
          style="display:inline"
@@ -2660,7 +2659,7 @@
              id="tspan4904-9"
              x="-24.712446"
              y="182.6786"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">B</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">C</tspan></text>
       </g>
       <g
          transform="translate(0,48.960119)"
@@ -2691,7 +2690,7 @@
     </g>
     <g
        id="g5525"
-       transform="translate(0,0.26459359)">
+       transform="translate(0,9.5134477)">
       <g
          id="g4911-0-7"
          style="display:inline"
@@ -2712,7 +2711,7 @@
              id="tspan4904-9-4"
              x="-24.712446"
              y="182.6786"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">C</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">D</tspan></text>
       </g>
       <text
          id="text5068-8"
@@ -2754,7 +2753,7 @@
     </g>
     <g
        id="g5538"
-       transform="translate(0,-1.2149816)">
+       transform="translate(0,6.3522568)">
       <g
          transform="translate(496.81662,-64.643359)"
          style="display:inline"
@@ -2775,7 +2774,7 @@
              id="tspan4904-8"
              x="-24.843063"
              y="198.5536"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">E</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">F</tspan></text>
       </g>
       <text
          id="text5068-8-8"
@@ -2813,7 +2812,7 @@
     </g>
     <g
        id="g5547"
-       transform="translate(0,-1.0826873)">
+       transform="translate(0,5.6437432)">
       <g
          transform="translate(-117.01667,93.079066)"
          id="g5278"
@@ -2834,7 +2833,7 @@
              id="tspan4904-3"
              x="589.00098"
              y="66.261932"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">F</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">G</tspan></text>
       </g>
       <text
          id="text5068-8-8-0"
@@ -2855,7 +2854,7 @@
     </g>
     <g
        id="g5556"
-       transform="translate(0,-0.95036348)">
+       transform="translate(0,4.9352511)">
       <g
          transform="translate(-117.01667,97.521216)"
          id="g5435"
@@ -2876,7 +2875,7 @@
              id="tspan4904-84"
              x="588.99023"
              y="76.845268"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">G</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">H</tspan></text>
       </g>
       <text
          id="text5068-8-8-0-4"
@@ -2897,7 +2896,7 @@
     </g>
     <g
        id="g5577"
-       transform="translate(0,-0.66156023)">
+       transform="translate(0,3.5424548)">
       <g
          transform="translate(-117.01667,111.55538)"
          id="g5514"
@@ -2920,7 +2919,7 @@
                y="103.3036"
                x="589.1239"
                id="tspan4904-5"
-               sodipodi:role="line">I</tspan></text>
+               sodipodi:role="line">J</tspan></text>
         </g>
       </g>
       <text
@@ -2942,7 +2941,7 @@
     </g>
     <g
        id="g5501"
-       transform="translate(0,-1.5398777e-5)">
+       transform="translate(0,-3.3238274)">
       <g
          transform="translate(-37.836613,3.175037)"
          id="g7791"
@@ -2973,7 +2972,7 @@
          xml:space="preserve"
          transform="translate(0,31.75)"><tspan
            id="tspan5082-3"
-           style="line-height:5.6500001px;stroke-width:0.26458332"
+           style="font-style:italic;line-height:5.6500001px;stroke-width:0.26458332"
            y="-6.3954983"
            x="477.85538"
            sodipodi:role="line">beginning of R0</tspan><tspan
@@ -3000,7 +2999,7 @@
     </g>
     <g
        id="g5567"
-       transform="translate(0,-0.8179846)">
+       transform="translate(0,4.2268302)">
       <g
          transform="translate(-106.43336,58.744866)"
          id="g4982"
@@ -3021,7 +3020,7 @@
              id="tspan4904-6"
              x="578.53906"
              y="129.76193"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">H</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">I</tspan></text>
       </g>
       <text
          id="text5068-8-8-0-4-7-5"
@@ -3075,7 +3074,7 @@
                y="92.720268"
                x="589.1239"
                id="tspan4904-64"
-               sodipodi:role="line">N</tspan></text>
+               sodipodi:role="line">O</tspan></text>
         </g>
       </g>
       <text
@@ -3102,7 +3101,7 @@
     </g>
     <g
        id="g5613"
-       transform="translate(0,-0.39691964)">
+       transform="translate(0,2.1254918)">
       <text
          id="text5068-8-8-0-4-7-0-6"
          y="241.76254"
@@ -3151,13 +3150,13 @@
                y="129.76193"
                x="588.84119"
                id="tspan4904-01"
-               sodipodi:role="line">K</tspan></text>
+               sodipodi:role="line">L</tspan></text>
         </g>
       </g>
     </g>
     <g
        id="g5631"
-       transform="translate(0,-0.13223875)">
+       transform="translate(0,0.70856506)">
       <text
          id="text5068-8-8-0-4-7-0-9"
          y="282.26935"
@@ -3194,12 +3193,12 @@
              id="tspan4904-34"
              x="589.1239"
              y="150.9286"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">M</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">N</tspan></text>
       </g>
     </g>
     <g
        id="g5601"
-       transform="translate(0,-0.52924687)">
+       transform="translate(0,2.8339684)">
       <g
          transform="translate(-117.01667,116.02383)"
          id="g5756"
@@ -3220,7 +3219,7 @@
              id="tspan4904-91"
              x="589.33905"
              y="113.85467"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">J</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">K</tspan></text>
       </g>
       <text
          id="text5068-8-8-0-4-7-0-9-8"
@@ -3241,7 +3240,7 @@
     </g>
     <g
        id="g5622"
-       transform="translate(0,-0.26456879)">
+       transform="translate(0,1.4170388)">
       <g
          transform="translate(-117.01667,171.46038)"
          id="g5814"
@@ -3262,7 +3261,7 @@
              id="tspan4904-89"
              x="588.81042"
              y="98.01194"
-             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">L</tspan></text>
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128">M</tspan></text>
       </g>
       <text
          id="text5068-8-8-0-4-7-0-9-8-4"
@@ -3283,7 +3282,7 @@
     </g>
     <g
        id="g5685"
-       transform="translate(0,-1.0707333e-5)">
+       transform="translate(0,8.4080355)">
       <g
          id="g5487"
          style="display:inline"
@@ -3304,7 +3303,7 @@
              y="198.5536"
              x="-24.763161"
              id="tspan5483"
-             sodipodi:role="line">D</tspan></text>
+             sodipodi:role="line">E</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -3322,6 +3321,66 @@
            y="121.80322"
            style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
            id="tspan5581">Faction Run</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g7791-2"
+       id="use5107"
+       transform="translate(-424.47919,229.86737)"
+       width="100%"
+       height="100%" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5111"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:10px;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5113"><rect
+           id="rect5115"
+           width="40"
+           height="20"
+           x="160"
+           y="1060" /></flowRegion><flowPara
+         id="flowPara5117"></flowPara></flowRoot>    <g
+       id="g5195"
+       transform="translate(0,0.09454812)">
+      <g
+         style="display:inline"
+         id="g7791-2"
+         transform="translate(-37.836613,31.074285)">
+        <circle
+           r="3.5672603"
+           cy="22.170212"
+           cx="509.9408"
+           id="path4887-1-9"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4906-7-8"
+           y="24.45841"
+           x="509.75793"
+           style="font-style:normal;font-weight:normal;font-size:6.2944684px;line-height:1.18021286px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11802128"
+           xml:space="preserve"><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.11802128"
+             y="24.45841"
+             x="509.75793"
+             id="tspan4904-0-9"
+             sodipodi:role="line">B</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:5.6500001px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="477.82162"
+         y="53.140408"
+         id="text5068-3-4"><tspan
+           sodipodi:role="line"
+           x="477.82162"
+           y="53.140408"
+           style="font-style:italic;line-height:5.6500001px;stroke-width:0.26458332"
+           id="tspan5082-3-9">R0, e6 gems</tspan><tspan
+           sodipodi:role="line"
+           x="477.82162"
+           y="58.790409"
+           style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
+           id="tspan7868-1">Heritages</tspan></text>
     </g>
   </g>
   <g
