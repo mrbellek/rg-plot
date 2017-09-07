@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.96059784"
-     inkscape:cx="2020.8645"
-     inkscape:cy="415.24248"
+     inkscape:cx="1843.3709"
+     inkscape:cy="581.80542"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -559,7 +559,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="development"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -3033,21 +3033,25 @@
            y="186.2037"
            x="477.98318"
            sodipodi:role="line">research in R16</tspan><tspan
-           id="tspan5217-3-3-7-2"
-           style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+           id="tspan5042"
+           style="font-weight:bold;line-height:5.6500001px;stroke-width:0.26458332"
            y="191.8537"
            x="477.98318"
-           sodipodi:role="line">Undead Challenge 1 (with D25),</tspan><tspan
-           id="tspan5044"
+           sodipodi:role="line">All Researches, All Remaining</tspan><tspan
            style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
            y="197.50371"
            x="477.98318"
-           sodipodi:role="line">Goblin Challenge 1,</tspan><tspan
-           id="tspan5042"
-           style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332"
+           sodipodi:role="line"
+           id="tspan5105"><tspan
+   style="font-weight:bold"
+   id="tspan5110">Challenges</tspan> <tspan
+   style="font-style:italic"
+   id="tspan5112">(for W50, don't</tspan></tspan><tspan
+           style="font-weight:normal;line-height:5.6500001px;stroke-width:0.26458332;font-style:italic"
            y="203.1537"
            x="477.98318"
-           sodipodi:role="line">Remaining Vanilla Challenges</tspan></text>
+           sodipodi:role="line"
+           id="tspan5108">reincarnate)</tspan></text>
     </g>
     <g
        id="g5642">
@@ -3340,7 +3344,7 @@
            height="20"
            x="160"
            y="1060" /></flowRegion><flowPara
-         id="flowPara5117"></flowPara></flowRoot>    <g
+         id="flowPara5117" /></flowRoot>    <g
        id="g5195"
        transform="translate(0,0.09454812)">
       <g
